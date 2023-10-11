@@ -1,0 +1,1 @@
+ services that run on every node in a cluster, such as system operations, log collection, monitoring frameworks like Prometheus, and storage volumes, are deployed using DaemonSets in a Kubernetes architecture
